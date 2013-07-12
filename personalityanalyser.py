@@ -8,7 +8,7 @@ print ("================================================================")
 
 Startabfrage = input("Können wir starten?")
 
-        if Startabfrage = "ja":
-                print ("Das ist aber fein")
-        else:
-                print ("Schade!")
+if Startabfrage == "ja":
+        print ("Das ist aber fein")
+else:
+        print ("Schade!")
